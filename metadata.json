@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow · Fluo Adaptive",
+  "description": "Estudos adaptativos com Modo Bateria (energia diária), cronograma líquido resiliente e temporizador de foco Pomodoro integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
